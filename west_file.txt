@@ -1,6 +1,0 @@
-Mismatches produce a kink which is recognized by the CEL family of endonucleases from
-spinach, T4 phage endo VII and T7 phage endo I. This property is used in the Surveyor nuclease
-assays to check point mutations and indels and as well as in CRISPR Cas assays to detect indels.
-In our assay, cells having putative mutations will be permeabilized and then will be treated with a
-judicious combination of the Surveryor /endo VII along with Nuclease P1 (if needed), an ssDNA
-endonuclease to locate DNA mismatches (SNPs and indels) and convert them to dsDNA breaks,
